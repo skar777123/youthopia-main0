@@ -152,7 +152,7 @@ const Overview: React.FC = () => {
              No events to display.
           </div>
       </motion.div>
-    </div>
+    </motion.div>
   );
 };
 
